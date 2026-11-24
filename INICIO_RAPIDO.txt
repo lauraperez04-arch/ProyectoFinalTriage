@@ -1,0 +1,11 @@
+PROYECTO FINAL — TRIAJE BINARIO
+
+1. Extrae el ZIP.
+2. Abre la carpeta ProyectoFinalTriaje en VS Code.
+3. Comprueba que .NET SDK 10 y JDK 21 están instalados.
+4. C#: doble clic en CSharp\ejecutar-windows.bat
+5. Java: doble clic en Java\ejecutar-windows.bat
+6. Prueba Java: doble clic en Java\probar-windows.bat
+
+Lee README.md para comandos de terminal y explicación del proyecto.
+Menú: opción 6 = respaldo TXT; opción 7 = salir.
